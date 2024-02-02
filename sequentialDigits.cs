@@ -22,6 +22,7 @@ namespace Sequential_Digits
                     }
                 }
             }
+            sequentialList?.Sort();
             return sequentialList;
 
         }
